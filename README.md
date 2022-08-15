@@ -1,2 +1,2 @@
 # presentations
-Repo with all presentations I have given
+Repo with some of the presentations I have given.
